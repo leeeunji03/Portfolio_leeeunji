@@ -2690,7 +2690,9 @@ input, select, textarea {
 		}
 
 /* Actions */
-
+	@media screen and (max-width:500px ){
+	.xd{padding-top: 20px;}
+}
 	ul.actions {
 		display: -moz-flex;
 		display: -webkit-flex;
@@ -2920,9 +2922,7 @@ input, select, textarea {
 		line-height: 1.5em;
 	}
 
-	@media screen and (max-width:500px ){
-	.xd{padding-top: 20px;}
-}
+	
 
 /* Split */
 
