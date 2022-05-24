@@ -2690,8 +2690,8 @@ input, select, textarea {
 		}
 
 /* Actions */
-	@media screen and (max-width:500px ){
-	.xd{margin-top: 20px;}
+	@media screen and (min-width:490px ){
+	.xd{padding-top: 20px;}
 }
 	ul.actions {
 		display: -moz-flex;
