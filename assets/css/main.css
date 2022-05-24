@@ -2920,6 +2920,10 @@ input, select, textarea {
 		line-height: 1.5em;
 	}
 
+	@media screen and (max-width:500px ){
+	.xd{padding-top: 20px;}
+}
+
 /* Split */
 
 	.split {
